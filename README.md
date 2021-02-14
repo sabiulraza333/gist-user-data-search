@@ -28,7 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
 #First Git clone the repo into your computer
 #git clone https://github.com/sabiulraza333/gist-user-data-search.git
 #Open your terminal
-$ cd react-gist-demo
+$ cd gist-user-data-search
 $ npm install
 #This should install all the dependencies. Once done
 #Run
