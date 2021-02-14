@@ -22,7 +22,7 @@ class SearchResultsInner extends Component {
                 <div>
                     <div className="status-box">
                         <p className="lead">
-                            <strong>{gists.length}</strong> results found for <strong>{username}</strong>
+                            <strong>{gists.length}</strong>  Results found for:  <strong>{username}</strong>
                         </p>
                     </div>
                     <ul>

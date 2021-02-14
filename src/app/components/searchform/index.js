@@ -25,7 +25,7 @@ class SearchFormInner extends Component {
                 <input 
                   className="form-control" 
                   type="text" 
-                  placeholder="Search for a user, eg. jsphkhan."
+                  placeholder="Search username, e.g (Sabiul Raza)"
                   ref={this.inputRef}/>
             </form>
         );
